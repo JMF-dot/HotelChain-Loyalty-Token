@@ -1,0 +1,1 @@
+# HotelChain-Loyalty-Token
